@@ -1,5 +1,11 @@
 <a href="https://codeclimate.com/github/Bulat100/weather-app/maintainability"><img src="https://api.codeclimate.com/v1/badges/cea3ea1e9e24b406f9a0/maintainability" /></a>
 
+
+Простое тестовое приложение на React Hooks.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
